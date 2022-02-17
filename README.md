@@ -1,6 +1,6 @@
 # Alist on heroku
 
-点击这里开始👉 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+点击这里开始👉 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pigeonpig/alist-heroku)
 
 ## FAQ
 问：如果让 Herok 应用保持存活状态？
